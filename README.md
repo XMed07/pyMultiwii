@@ -1,2 +1,2 @@
 # pyMultiwii
-This is a python3 implementation of Multi Serial Protocol (MSP)
+This is a python3 implementation of MultiWii Serial Protocol (MSP)
